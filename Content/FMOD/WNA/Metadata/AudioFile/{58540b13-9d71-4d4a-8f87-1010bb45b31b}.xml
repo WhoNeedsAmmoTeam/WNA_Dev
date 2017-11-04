@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{58540b13-9d71-4d4a-8f87-1010bb45b31b}">
+        <property name="assetPath">
+            <value>252235__reitanna__soft-grunt.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.29025000000000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7d733894-a03d-4ab5-a4b9-50ee91587498}</destination>
+        </relationship>
+    </object>
+</objects>

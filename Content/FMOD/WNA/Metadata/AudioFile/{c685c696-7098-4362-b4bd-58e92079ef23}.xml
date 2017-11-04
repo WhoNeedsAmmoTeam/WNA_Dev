@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{c685c696-7098-4362-b4bd-58e92079ef23}">
+        <property name="assetPath">
+            <value>zapsplat_impact_rock_fall_hit_ground_forest_floor_003.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.432</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7d733894-a03d-4ab5-a4b9-50ee91587498}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Event" id="{43cf7c21-9f66-4df8-9260-52a2834a6d33}">
+        <relationship name="selectables">
+            <destination>{b8eea9c1-5a78-461e-a461-55820a906a14}</destination>
+        </relationship>
+        <relationship name="uiLastParameterSelection">
+            <destination>{60782916-f810-48c4-be3b-8836724b8c90}</destination>
+        </relationship>
+    </object>
+    <object class="MasterTrack" id="{b8eea9c1-5a78-461e-a461-55820a906a14}"/>
+    <object class="MixerInput" id="{d9404851-2098-4dd9-84fd-5fe8be4bb022}"/>
+    <object class="EventAutomatableProperties" id="{0fc6063f-1029-49f7-8507-c7b458ee980d}"/>
+    <object class="MarkerTrack" id="{e44b5830-140f-44da-a845-e4f568b1cf02}"/>
+    <object class="GroupTrack" id="{edd3ea33-c6e7-48ec-9d8f-02bdf2faa876}"/>
+    <object class="Timeline" id="{60782916-f810-48c4-be3b-8836724b8c90}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.00038490566037735843</value>
+        </property>
+    </object>
+    <object class="EventMixerMaster" id="{cca48a0f-46a5-4c17-ae84-9ec58f3471fa}">
+        <relationship name="input">
+            <destination>{73760377-ec16-4a50-a4ae-7133b02f272b}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{f11a61c2-84bb-425d-bab0-168047cac0b3}"/>
+    <object class="MixerBusPanner" id="{aecd11d4-275c-4e0f-8fa1-1b31c4f96bdd}"/>
+    <object class="MultiSound" id="{4263e4d5-c240-4973-bf08-89839f108d03}"/>
+    <object class="EventMixerGroup" id="{73760377-ec16-4a50-a4ae-7133b02f272b}"/>
+    <object class="MixerBusEffectChain" id="{ecb890b4-6018-444e-8a8d-5cfcb4313e3b}"/>
+    <object class="MixerBusPanner" id="{c7a6a829-563c-4dac-a9bb-cccd8d8e3e02}"/>
+    <object class="MixerBusFader" id="{1728ac98-9584-4804-8514-08c794337938}"/>
+    <object class="RandomizerModulator" id="{3451c531-f075-40c0-ab4b-a96bc1760924}"/>
+    <object class="RandomizerModulator" id="{c6fd964e-907f-4524-86d4-d2a98df50a0a}"/>
+    <object class="SingleSound" id="{86d4d252-3f7d-4554-9a48-fe3005bc27f0}"/>
+    <object class="SingleSound" id="{45e20c9b-3578-460d-ba76-feebc5dd10b9}"/>
+    <object class="SingleSound" id="{8837addc-f4cf-40e5-a435-9a59bf19029a}"/>
+    <object class="MixerBusEffectChain" id="{69e48c37-f2cd-4983-b955-3374aee664d1}"/>
+    <object class="MixerBusPanner" id="{33fa0600-223c-4a20-a0c7-f372281fbd85}"/>
+    <object class="MixerBusFader" id="{7a31fd26-4b6a-402a-8b1c-ff8ba05c9893}"/>
+    <object class="SpatialiserEffect" id="{b8349c46-7882-43b5-bd15-3a7b4001bc54}"/>
+    <object class="MixerBusFader" id="{e88336d7-a5aa-4f99-8596-95748371ed0e}"/>
+</objects>

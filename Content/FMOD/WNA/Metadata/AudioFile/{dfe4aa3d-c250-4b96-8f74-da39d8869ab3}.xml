@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{dfe4aa3d-c250-4b96-8f74-da39d8869ab3}">
+        <property name="assetPath">
+            <value>Heraklios_armour_jingle_02.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.51770833333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{7d733894-a03d-4ab5-a4b9-50ee91587498}</destination>
+        </relationship>
+    </object>
+</objects>
